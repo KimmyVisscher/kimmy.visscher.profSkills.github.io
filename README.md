@@ -1,1 +1,1 @@
-# kimmy.visscher.profSkills.github.io
+# kimmyProfSkills.github.io
