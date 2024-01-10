@@ -365,6 +365,20 @@ footer{
     width: 92vw;
 }
 
+.pdf > h1{
+    display: flex;
+    justify-content: center;
+}
+
+.audio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    gap: 30px;
+}
+
 iframe{
     height: 87vh;
     width: 92vw;
